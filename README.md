@@ -11,4 +11,10 @@ Uddered But Not Herd - http://www.usaco.org/index.php?page=viewproblem2&cpid=108
 
 Even More Odd Photos - http://www.usaco.org/index.php?page=viewproblem2&cpid=1084
 
-Sleep Cow Herding - http://www.usaco.org/index.php?page=viewproblem2&cpid=915
+Sleepy Cow Herding - http://www.usaco.org/index.php?page=viewproblem2&cpid=915
+
+Mad Scientist -  http://www.usaco.org/index.php?page=viewproblem2&cpid=1012
+
+Teleportation - http://www.usaco.org/index.php?page=viewproblem2&cpid=807
+
+
