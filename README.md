@@ -17,4 +17,4 @@ Mad Scientist -  http://www.usaco.org/index.php?page=viewproblem2&cpid=1012
 
 Teleportation - http://www.usaco.org/index.php?page=viewproblem2&cpid=807
 
-
+Just Stalling - http://usaco.org/index.php?page=viewproblem2&cpid=1085
