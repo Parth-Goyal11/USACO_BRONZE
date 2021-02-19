@@ -5,7 +5,7 @@ TASK:Daisy Chains
  */
 
 import java.util.*;
-public class Daisy_Chains {
+public class Daisy_Chains {//The logic for this problem is to make all the possible sublists of a list, find the average of its flower petals, and check if the average is included in the sublist.
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         ArrayList<Integer> Inputs = new ArrayList<>();
