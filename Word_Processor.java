@@ -1,12 +1,10 @@
 import java.io.*;
-import java.nio.charset.StandardCharsets;
 import java.util.*;
 public class Word_Processor {
     public static void main(String[] args) throws IOException {
         Scanner input = new Scanner(new FileReader("word.in"));
         PrintWriter print = new PrintWriter(new BufferedWriter(new FileWriter("word.out")));
-        String[] s = input.nextLine().split(" "); //Store all the inputs in an array.
-        ArrayList<String> tes = new ArrayList<>();
+        String[] s = input.nextLine().split(" "); //Store all the inputs in an array
         int N = Integer.parseInt(s[0]);
         int K = Integer.parseInt(s[1]);
         String[] X = input.nextLine().split(" " );
